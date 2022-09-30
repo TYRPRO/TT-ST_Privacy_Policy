@@ -1,4 +1,4 @@
-# TT_Privacy_Policy
+# TT&STPrivacy_Policy
 
 - Qlassroom AI ("Company") collects, uses and discloses personal data to support its  research, administration, staff learning and development and other functions of the Company, in compliance with the Personal Data Protection Act.
 
